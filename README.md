@@ -8,7 +8,7 @@
 <h6> Author : RKT </h6>
 
 
-Onionhttpheader can help to get any onionsite xss-protection,cookie,servername,path,pragma,cach-control,content-encoding,timeout,connection,charset etc and  also get any basic information of onionsite.
+Onionhttpheader can help to get any onionsite x-xss-protection,cookie,servername,path,pragma,cach-control,content-encoding,timeout,connection,charset etc and  also get any basic information of onionsite.
 
 ### Setup[PIP MODULE] ### 
 
