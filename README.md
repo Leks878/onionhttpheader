@@ -2,7 +2,7 @@
 
 ![Screenshot at 2021-02-18 22-00-34](https://user-images.githubusercontent.com/69615463/108385392-d1957c00-7235-11eb-8157-5bad0b81a0cc.png)
 
-<h6> Author : RKT </6>
+<h6> Author : RKT </h6>
 
 
 Onionhttpheader can help to get any onionsite xss-protection,cookie,servername,path,pragma,cach-control,content-encoding,timeout,connection,charset etc and  also get any basic information of onionsite.
